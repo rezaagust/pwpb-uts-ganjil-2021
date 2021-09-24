@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Varela Round', sans-serif;
+}
+tr, th, td {
+    border: 1px solid;
+    padding: 15px;
+    background-color: #3d5a80;
+}
+
+img {
+    height: 300px;
+    width: 100px auto;
+}
+table {
+    border: 1px solid;
+    width: 90%;
+}
+
+td {
+    font-weight: bold;
+}
